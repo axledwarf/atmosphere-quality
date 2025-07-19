@@ -30,4 +30,25 @@ In addition there are a collection of scripts for the Enviro+ on Raspberry Pi Ze
 - Code style/commit message preferences
 
 ## License
-(license info)
+
+This repository contains open source code and supporting materials for a hardware/software stack featuring:
+- Raspberry Pi Zero W Rev 1.1 (Hardware: BCM2835)
+- Pimoroni Enviro+ Air Quality Monitor (PIM458)
+- Plantower PMS5003 PM Sensor
+- Ubuntu, Oracle MySQL (Community Edition), Grafana, Python, and other OS-level scripts
+
+### Software License
+
+All source code in this repository is licensed under the MIT License (or your chosen license—edit as appropriate).
+
+Third-party software (including MySQL, Ubuntu, Grafana, etc.) is subject to their respective open source or commercial licenses. Please consult their respective license files and terms.
+
+### Hardware & Sensor Components
+
+This repository does not redistribute hardware design files. Refer to respective manufacturers' documentation for any restrictions on physical hardware. This project is "Powered by Raspberry Pi." 
+
+### Notices
+
+- “Raspberry Pi” is a trademark of the Raspberry Pi Foundation.
+- Ensure compliance with the GPL and AGPL licensing when redistributing any system images, source, or binaries related to Ubuntu, MySQL, or Grafana.
+- If distributing modified versions of GPL/AGPL components, be prepared to make the source code for those components available as required[1][7][10].
