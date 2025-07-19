@@ -5,6 +5,7 @@
 ## Project Overview
 Documentation for a project that has been running for quite some time now, to measure atmospherics such as air temperature and air pressure, and particulate contamination of local area atmosphere, with some readily available hardware and software. Use of Grafana for visualizing the data, and MySQL for data storage. 
 In addition there are a collection of scripts for the Enviro+ on Raspberry Pi Zero with the Plantower PMS5003 Particulate Matter (PM) Sensor.
+<img width="1370" height="748" alt="Screenshot 2025-07-19 at 5 12 23 PM" src="https://github.com/user-attachments/assets/686c9640-300a-4142-b9e8-c9ac9b6de2d1" />
 
 ## Hardware
 - Raspberry Pi Zero W Rev 1.1 (Hardware	: BCM2835)
