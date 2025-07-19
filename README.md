@@ -3,7 +3,8 @@
 # Atmosphere Quality Monitoring
 
 ## Project Overview
-Brief intro about your monitoring system, why it matters, and the overall workflow.
+Documentation for a project that has been running for quite some time now, to measure atmospherics such as air temperature and air pressure, and particulate contamination of local area atmosphere, with some readily available hardware and software. Use of Grafana for visualizing the data, and MySQL for data storage. 
+In addition there are a collection of scripts for the Enviro+ on Raspberry Pi Zero with the MICS6814 gas sensor.
 
 ## Hardware
 - List sensors (e.g., MQ-135, DHT22)
