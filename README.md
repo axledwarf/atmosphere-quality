@@ -39,7 +39,7 @@ This repository contains open source code and supporting materials for a hardwar
 
 ### Software License
 
-All source code in this repository is licensed under the MIT License (or your chosen license—edit as appropriate).
+All of our source code in this repository is licensed under the MIT License.
 
 Third-party software (including MySQL, Ubuntu, Grafana, etc.) is subject to their respective open source or commercial licenses. Please consult their respective license files and terms.
 
